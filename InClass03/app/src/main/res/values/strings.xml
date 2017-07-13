@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="for_thread">For Thread:</string>
+    <string name="pass_count">Select Password Count</string>
+    <string name="pass_length">Select Password Length</string>
+    <string name="Async_task">For Async Task:</string>
+    <string name="generate">Generate</string>
+    <string name="Finish">Finish</string>
+    <string name="thread">Passwords generated using Thread:</string>
+    <string name="Async">Passwords generated using Async tasks:</string>
+</resources>
